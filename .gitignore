@@ -1,0 +1,12 @@
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+fb2snap/fb2snap
+fb2snap/Makefile
+fb2snap/CMakeFiles/
+fb2snap/cmake_install.cmake
+fbshow/fbshow
+fbshow/Makefile
+fbshow/CMakeFiles/
+fbshow/cmake_install.cmake
