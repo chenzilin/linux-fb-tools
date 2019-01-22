@@ -4,3 +4,4 @@ PROJECT(linux-fb-tools)
 
 ADD_SUBDIRECTORY(fbshow)
 ADD_SUBDIRECTORY(fb2snap)
+ADD_SUBDIRECTORY(fbtest)

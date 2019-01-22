@@ -10,3 +10,7 @@ fbshow/fbshow
 fbshow/Makefile
 fbshow/CMakeFiles/
 fbshow/cmake_install.cmake
+fbtest/fbtest
+fbtest/Makefile
+fbtest/CMakeFiles/
+fbtest/cmake_install.cmake
