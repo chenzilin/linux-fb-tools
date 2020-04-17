@@ -26,7 +26,7 @@ static void draw(int color)
 
         for(i=0; i<fbdev.fb_height*2; i++, p+=fbdev.fb_line_len/4){
                 for(j=0; j<fbdev.fb_width; j++)
-                        p[j]=color;
+                        p[j]=color | 0xff000000;
         }
 }
 
